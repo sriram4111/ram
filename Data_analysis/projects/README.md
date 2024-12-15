@@ -5,6 +5,7 @@ An interactive dashboard analyzing sales data across various dimensions to provi
 In the dynamic landscape of quick commerce, Blinkit has emerged as a prominent player, revolutionizing the way consumers access daily essentials in India.
 
 Here's a quick glimpse of some noteworthy facts about Blinkit:
+
  ➡️ Company Overview:
       Name: Blinkit (formerly Grofers)
       Founded: December 2013
