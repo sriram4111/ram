@@ -1,4 +1,4 @@
-# Blinkit-Data-Analysis-Project - Sales Analysis Dashboard📊
+# Blinkit Sales Analysis Dashboard📊
 
 An interactive dashboard analyzing sales data across various dimensions to provide actionable business insights.
 
