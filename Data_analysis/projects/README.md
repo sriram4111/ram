@@ -16,6 +16,29 @@ Business Model:
 
 ➡️ Blinkit operates as an online marketplace, connecting consumers with local stores to provide a wide range of products, including groceries, personal care items, and household essentials. Leveraging a network of local suppliers and a dedicated delivery, Blinkit ensures rapid delivery, often within minutes, enhancing customer convenience.
 
+**Technical Stack 💻**
+**Data Analysis Tools**
+Language: Python
+**Key Libraries:**
+  Pandas (Data manipulation)
+  NumPy (Numerical computing)
+  Matplotlib (Visualization)
+  Seaborn (Statistical data visualization)
+
+**Analysis Modules**
+Sales Performance Overview
+Time-based Analysis
+Store Performance Evaluation
+Delivery Efficiency Metrics
+Executive Summary Generation
+
+**Key Insights and Deliverables 📈**
+**Analysis Outputs**
+Comprehensive Sales Performance Dashboard
+Detailed Executive Summary
+Interactive Visualizations
+Strategic Recommendations
+
 **Project Scope:**
 
 ➡️ As an aspiring Data Analyst, the objective is to delve into Blinkit's operational data to uncover insights that can drive strategic decisions. The analysis will focus on understanding customer behavior, optimizing delivery logistics, and enhancing product offerings to maintain Blinkit's competitive edge in the quick commerce sector.
