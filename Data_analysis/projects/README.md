@@ -17,6 +17,7 @@ Business Model:
 ➡️ Blinkit operates as an online marketplace, connecting consumers with local stores to provide a wide range of products, including groceries, personal care items, and household essentials. Leveraging a network of local suppliers and a dedicated delivery, Blinkit ensures rapid delivery, often within minutes, enhancing customer convenience.
 
 **Technical Stack 💻**
+
 **Data Analysis Tools**
 Language: Python
 **Key Libraries:**
