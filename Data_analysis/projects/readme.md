@@ -160,6 +160,8 @@ And then dataset was cleaned and transformed, it was ready to the data modeled.
 
 The sales insights data tables as show below:
 
+![model](https://github.com/user-attachments/assets/9844bbc8-ae80-4479-a8e6-c5740836f0ad)
+
 
 
 Data Source:
