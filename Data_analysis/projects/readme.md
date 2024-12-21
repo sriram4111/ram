@@ -165,6 +165,7 @@ Measures used in all visualization are:
 
 Key Measures:
 Revenue = SUM('sales transactions'[sales_amount])
+
 sales quntity = SUM('sales transactions'[sales_qty])
 
 # Build Dashboard Or a Report:
