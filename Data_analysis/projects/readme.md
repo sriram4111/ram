@@ -174,9 +174,10 @@ Data visualization for the data analysis **(DAX)** was done in Microsoft Power B
 
 Shows visualizations from Sales insights :
 
+![Sales_Img](https://github.com/user-attachments/assets/9e8de020-d13e-4978-be41-51749c050a95)
 
 
 Data Source:
 
-The dataset used for this analysis includes sales records from various outlets, detailing product characteristics and sales performance.
+The data used for this analysis includes sales records is from mysql database, detailing product characteristics and sales performance.
 
