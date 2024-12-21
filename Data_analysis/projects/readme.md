@@ -6,25 +6,29 @@ AtliQ Hardware is a company which supplies computer hardware and peripherals to 
 
 Here's a quick glimpse of some noteworthy facts about AtilQ:
 
- ➡️ Company Overview:
-      Name: AtilQ 
-      Founded: December 2013
-      Headquarters: Gurugram, India
-      Industry: Quick Commerce / Online Grocery Delivery
+ ➡️ **Project Planning using AIMS Grid -**
+    It is a project management tool which consists of four components-
+    Purpose - (What to do exactly)
+    Stackholder - (Who will be involved)
+    End result - (What do you want to achieve)
+    Success Criteria - (Cost optimization and time save)
+    
+**AIMS Grid -**
+**1. Purpose** :- To unlock sales insights that are not visible before for the sales them for decision support and automate them to reduced manual time spent in data gathering.
 
-Business Model:
+**2. Stakeholders :-**
+Sales Director
+Marketing Team
+Customer Service Team
+Data and Analytics Team
+IT
+**3. End result** :- An automated dashboard providing quick and latest sights in order to support Data driven decision making.
 
-➡️ Blinkit operates as an online marketplace, connecting consumers with local stores to provide a wide range of products, including groceries, personal care items, and household essentials. Leveraging a network of local suppliers and a dedicated delivery, Blinkit ensures rapid delivery, often within minutes, enhancing customer convenience.
+**4. Success Criteria :-**
+Dahboard uncovering sales order insights with latest data available
+Sales team able to take better decisions and prove 10% cost saving of total spend.
+Sales analysis stop data gathering manually in order to save 20% business time andreinvest it value added activity.
 
-**Technical Stack 💻**
-
-**Data Analysis Tools**
-Language: Python
-**Key Libraries:**
-  Pandas (Data manipulation)
-  NumPy (Numerical computing)
-  Matplotlib (Visualization)
-  Seaborn (Statistical data visualization)
 
 **Analysis Modules**
 Sales Performance Overview
