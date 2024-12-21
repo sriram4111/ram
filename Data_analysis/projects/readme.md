@@ -44,6 +44,10 @@ SQL database dump is in db_dump.sql file above. Download db_dump.sql file to you
 
 Importing Data to MySQL workbench
 
+![sql_1](https://github.com/user-attachments/assets/1ef8940f-19ff-4100-896d-4848e21b397e)
+![sql_2](https://github.com/user-attachments/assets/52c33cd8-280b-4666-896e-08687a18e6ea)
+
+
 
 
 **Project Scope:**
