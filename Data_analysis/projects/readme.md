@@ -40,8 +40,6 @@ Sales analysis stop data gathering manually in order to save 20% business time a
 
 Completed the Data discovery and then used mySQL for data analysis.
 
-SQL database dump is in db_dump.sql file above. Download db_dump.sql file to your local computer
-
 **Importing Data to MySQL workbench**
 
 ![sql_1](https://github.com/user-attachments/assets/1ef8940f-19ff-4100-896d-4848e21b397e)
