@@ -32,7 +32,17 @@ Sales analysis stop data gathering manually in order to save 20% business time a
 
 **Flowchart of project execution -**
 
+
 ![AtilQ_pic](https://github.com/user-attachments/assets/c5432643-bcad-4135-b4ea-d5b7512f37c5)
+
+
+**##Data Analysis using MySQL :**
+
+Completed the Data discovery and then used mySQL for data analysis.
+
+SQL database dump is in db_dump.sql file above. Download db_dump.sql file to your local computer
+
+Importing Data to MySQL workbench
 
 
 
