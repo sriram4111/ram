@@ -14,6 +14,7 @@ Here's a quick glimpse of some noteworthy facts about AtilQ:
     Success Criteria - (Cost optimization and time save)
     
 **AIMS Grid -**
+
 **1. Purpose** :- To unlock sales insights that are not visible before for the sales them for decision support and automate them to reduced manual time spent in data gathering.
 
 **2. Stakeholders :-**
@@ -29,20 +30,9 @@ Dahboard uncovering sales order insights with latest data available
 Sales team able to take better decisions and prove 10% cost saving of total spend.
 Sales analysis stop data gathering manually in order to save 20% business time andreinvest it value added activity.
 
+**Flowchart of project execution -**
 
-**Analysis Modules**
-Sales Performance Overview
-Time-based Analysis
-Store Performance Evaluation
-Delivery Efficiency Metrics
-Executive Summary Generation
 
-**Key Insights and Deliverables 📈**
-**Analysis Outputs**
-Comprehensive Sales Performance Dashboard
-Detailed Executive Summary
-Interactive Visualizations
-Strategic Recommendations
 
 **Project Scope:**
 
