@@ -155,6 +155,10 @@ In power query editore finding the total values having USD as currency.
 
  `=Table.AddColumn(#"Filtered Rows", "norm_sales_amount",each if [currency] = "USD" then [sales_amount]*75 else [sales_amount]`
 
+# Data Modeling:
+And then dataset was cleaned and transformed, it was ready to the data modeled.
+
+The sales insights data tables as show below:
 
 
 
