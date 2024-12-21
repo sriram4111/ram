@@ -31,6 +31,7 @@ Sales team able to take better decisions and prove 10% cost saving of total spen
 Sales analysis stop data gathering manually in order to save 20% business time andreinvest it value added activity.
 
 **Flowchart of project execution -**
+![AtilQ_pic](https://github.com/user-attachments/assets/c5432643-bcad-4135-b4ea-d5b7512f37c5)
 
 
 
