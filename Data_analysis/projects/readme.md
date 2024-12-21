@@ -1,4 +1,4 @@
-# AtilQ Sales Analysis Dashboard📊
+![image](https://github.com/user-attachments/assets/947b7870-9730-4809-8feb-6f3818adfa17)# AtilQ Sales Analysis Dashboard📊
 
 An interactive dashboard analyzing sales data across various dimensions to provide actionable business insights.
 
@@ -131,6 +131,16 @@ SELECT SUM(sales.transactions.sales_amount) FROM sales.transactions INNER JOIN s
 SELECT SUM(sales.transactions.sales_amount) FROM sales.transactions INNER JOIN sales.date ON sales.transactions.order_date=sales.date.date where sales.date.year=2020 and sales.transactions.market_code="Mark002";
 
 Similarly, if we want different of any other particular city the market code of that city is used on the mysql workbench.
+
+Data Cleaning and ETL (Extract, Transform, Load):
+In this process, we are work on data cleaning and ETL.
+
+Step 1: Connect the MySQL database with the PowerBI desktop.
+
+Step 2: Loading data into the Power BI deskstop. This step load all the tables and created in the data base. This load option will connect with the SQL and pull all the records into power BI environment.
+
+In that model view looking up for model which form the star schema.
+
 
 
 
