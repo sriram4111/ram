@@ -162,6 +162,18 @@ The sales insights data tables as show below:
 
 ![model](https://github.com/user-attachments/assets/9844bbc8-ae80-4479-a8e6-c5740836f0ad)
 
+# Data Analysis (DAX):
+Measures used in all visualization are:
+
+Key Measures:
+Revenue = SUM('sales transactions'[sales_amount])
+sales quntity = SUM('sales transactions'[sales_qty])
+
+# Build Dashboard Or a Report:
+Data visualization for the data analysis **(DAX)** was done in Microsoft Power BI Desktop:
+
+Shows visualizations from Sales insights :
+
 
 
 Data Source:
