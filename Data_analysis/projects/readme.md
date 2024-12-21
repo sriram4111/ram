@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/947b7870-9730-4809-8feb-6f3818adfa17)# AtilQ Sales Analysis Dashboard📊
+# AtilQ Sales Analysis Dashboard📊
 
 An interactive dashboard analyzing sales data across various dimensions to provide actionable business insights.
 
@@ -36,13 +36,13 @@ Sales analysis stop data gathering manually in order to save 20% business time a
 ![AtilQ_pic](https://github.com/user-attachments/assets/c5432643-bcad-4135-b4ea-d5b7512f37c5)
 
 
-**##Data Analysis using MySQL :**
+# Data Analysis using MySQL :
 
 Completed the Data discovery and then used mySQL for data analysis.
 
 SQL database dump is in db_dump.sql file above. Download db_dump.sql file to your local computer
 
-Importing Data to MySQL workbench
+**Importing Data to MySQL workbench**
 
 ![sql_1](https://github.com/user-attachments/assets/1ef8940f-19ff-4100-896d-4848e21b397e)
 ![sql_2](https://github.com/user-attachments/assets/52c33cd8-280b-4666-896e-08687a18e6ea)
@@ -140,6 +140,9 @@ Step 1: Connect the MySQL database with the PowerBI desktop.
 Step 2: Loading data into the Power BI deskstop. This step load all the tables and created in the data base. This load option will connect with the SQL and pull all the records into power BI environment.
 
 In that model view looking up for model which form the star schema.
+
+![image](https://github.com/user-attachments/assets/947b7870-9730-4809-8feb-6f3818adfa17)
+
 
 
 
