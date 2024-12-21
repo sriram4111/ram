@@ -2,12 +2,12 @@
 
 An interactive dashboard analyzing sales data across various dimensions to provide actionable business insights.
 
-In the dynamic landscape of quick commerce, Blinkit has emerged as a prominent player, revolutionizing the way consumers access daily essentials in India.
+AtliQ Hardware is a company which supplies computer hardware and peripherals to many of clients such as surge stores, Nomad stores etc. across India. AtliQ Hardware head office is situated in Delhi, India and they have many regional office through out the India.
 
-Here's a quick glimpse of some noteworthy facts about Blinkit:
+Here's a quick glimpse of some noteworthy facts about AtilQ:
 
  ➡️ Company Overview:
-      Name: Blinkit (formerly Grofers)
+      Name: AtilQ 
       Founded: December 2013
       Headquarters: Gurugram, India
       Industry: Quick Commerce / Online Grocery Delivery
