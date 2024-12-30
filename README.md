@@ -1,32 +1,31 @@
-# Exploratory Analysis Report: Laptop prices Data 📊
-Introduction
-In this exploratory analysis, we delve into the Lptop data aiming to uncover key insights and potential areas for improvement. The dashboard and analysis are done with Microsoft PowerBI or tableau
+<h1 align="center">Hi 👋, I'm Sai Sri Ram Cherukuri</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
-1. Companies and their Prodcuts selling 
-We begin by comparing Company and  Products of the company's. This provides an overview of our which company is selling which prodcuts to get better understanding.
+- 🔭 I’m currently working on **Churn Analysis**
 
-2. OS Analysis: Operating System
-A closer look at our OS categories reveals intriguing findings:
+- 🌱 I’m currently learning **Machine Learning, NLP**
 
- WINDOWS10 💻: Highest OS 65% using.
+- 👯 I’m looking to collaborate on **ML,NLP,DL**
 
- LINUX : Midrange OS but using only 30% profit.
+- 👨‍💻 All of my projects are available at [github.com/sriram4111](github.com/sriram4111)
 
- LINUX,CHROME-OS, MAC-OS ,WINDOWS-10S,WINDOWS7:  Lowest, but only 5% using.
+- 💬 Ask me about **Data Related**
 
-3. Laptop Touchscreen vs Normal
-Identifying our Touchscreen 80% and Normal 20% are selling.
+- 📫 How to reach me **saisriram101201@gmail.com**
 
-4. Laptops Type Names
-Examining  sales data helps us to analyze the margin between Type name and Price: Notably high margin for Workstation, Gaming and UltraBook has increased profitability.
+- 📄 Know about my experiences [Data Analytics Professional with 3+ years of experience delivering actionable insights through advanced analytics and visualization. Expertise in predictive modeling, ETL processes, and statistical analysis using Python and SQL. Proven track record of developing end-to-end BI solutions with Power BI to drive data-informed decisions. Successfully collaborated with stakeholders to translate business requirements into scalable data solutions.](Data Analytics Professional with 3+ years of experience delivering actionable insights through advanced analytics and visualization. Expertise in predictive modeling, ETL processes, and statistical analysis using Python and SQL. Proven track record of developing end-to-end BI solutions with Power BI to drive data-informed decisions. Successfully collaborated with stakeholders to translate business requirements into scalable data solutions.)
 
-6. IPS(In-Plane Switching)
-in-plane switching, and it's a type of liquid-crystal display (LCD) technology used in laptops and other screens
-Identifying our IPS 80% NO and IPS 20% YES are using.
+- ⚡ Fun fact **Anything is Possible!**
 
-7. RetinaDisplay
-Identifying our RetinaDisplay 90% NO and RetinaDisplay 10% are considering.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/saisriramcherukuri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saisriramcherukuri/" height="30" width="40" /></a>
+<a href="https://instagram.com/sriram4111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sriram4111" height="30" width="40" /></a>
+</p>
 
-I have performed a comprehensive analysis of the laptop pricing dataset, which involved several key steps. Initially, I handled missing data by imputing appropriate values based on the mode and filled in 'No OS' entries with the most frequent value.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-Additionally, I explored the dataset using various visualizations, such as bar plots, to examine the distribution of categorical variables like operating systems. Outliers and inconsistencies in the data were cleaned to ensure quality analysis. With these preprocessing steps, I’ve created a well-structured dataset that is now ready for modeling and deeper insights."
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sriram4111&show_icons=true&locale=en&layout=compact" alt="sriram4111" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sriram4111&" alt="sriram4111" /></p>
