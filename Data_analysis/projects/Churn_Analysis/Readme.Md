@@ -337,6 +337,6 @@ Summary Page
 
 Churn Reason Page (Tooltip)
 
-1.  Churn Reason – Total Churn
+1.  Churn Reason – Total Churn.
 
 
