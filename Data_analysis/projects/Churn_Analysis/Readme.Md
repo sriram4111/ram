@@ -267,3 +267,73 @@ Create a new table reference for prod_Services
 1.       Unpivot services columns
 
 2.       Rename Column – Attribute >> Services & Value >> Status
+
+#  STEP 3 – Power BI Measure
+Total Customers = Count(prod_Churn[Customer_ID])
+
+New Joiners = CALCULATE(COUNT(prod_Churn[Customer_ID]), prod_Churn[Customer_Status] = “Joined”)
+
+ 
+
+Total Churn = SUM(prod_Churn[Churn Status])
+
+Churn Rate = [Total Churn] / [Total Customers]
+
+ 
+
+ 
+
+#  STEP 4 – Power BI Visualization
+ 
+
+Summary Page
+
+ 
+
+1.  Top Card
+
+a.       Total Customers
+
+b.       New Joiners
+
+c.       Total Churn
+
+d.       Churn Rate%
+
+2.  Demographic
+
+a.       Gender – Churn Rate
+
+b.       Age Group – Total Customer & Churn Rate
+
+3.  Account Info
+
+a.       Payment Method – Churn Rate
+
+b.       Contract – Churn Rate
+
+c.       Tenure Group – Total Customer & Churn Rate
+
+4.  Geographic
+
+a.       Top 5 State – Churn Rate
+
+5.  Churn Distribution
+
+a.       Churn Category – Total Churn
+
+b.       Tooltip : Churn Reason – Total Churn
+
+6.  Service Used
+
+a.       Internet Type – Churn Rate
+
+b.       prod_Service >> Services – Status – % RT Sum of Churn Status
+
+ 
+
+Churn Reason Page (Tooltip)
+
+1.  Churn Reason – Total Churn
+
+
