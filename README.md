@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/9e/0a/c8/9e0ac82bc17ff00708da6bd09593177e.gif)]
 <h1 align="center">Hi 👋, I'm Sai Sri Ram Cherukuri</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/407661fb96c2dfb4ed762258e705bf1e406bd594a3ad33609984a6e200722c34/68747470733a2f2f6172796e672e636f6d2f6173736574732f696d672f616e69322e676966">
 
 - 🔭 I’m currently working on **Churn Analysis**
 
