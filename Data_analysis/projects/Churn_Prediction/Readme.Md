@@ -1,4 +1,4 @@
-#  Predict Customer Churn
+#  Predict Customer Churn <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...>
 
 For predicting customer churn, we will be using a widely used Machine Learning algorithm called RANDOM FOREST.
 
