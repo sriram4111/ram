@@ -56,6 +56,8 @@ Strategic Recommendations
 
 Shows visualizations from Blinkit insights :
 
+![Blinkit_IMG](https://github.com/user-attachments/assets/bba19788-2064-448e-8411-0364e3dc9d9b)
+
 
 
 Data Source:
