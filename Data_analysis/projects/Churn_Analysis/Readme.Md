@@ -346,6 +346,6 @@ Churn Reason Page (Tooltip)
 
    Shows visualizations from Churn Analysis :
 
-   ![Churn_Analysis IMG](https://github.com/user-attachments/assets/fe6ff488-1d2f-4b07-9d4f-710a9a7f2f5e)
+   
 
 
