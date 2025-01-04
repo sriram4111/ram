@@ -20,3 +20,7 @@ Services,
 Study Churner Profile & Identify Areas for Implementing Marketing Campaigns,
 
 Identify a Method to Predict Future Churners.
+
+# STEP 1 – ETL Process in SQL Server
+
+So the first step in churn analysis is to load the data from our source file. For this purpose we will be using Microsoft SQL server because it is a widely used solution across the industry and also because a full-fledged Database System is better at handling recurring data loads and maintaining data integrity compared to an excel file.
