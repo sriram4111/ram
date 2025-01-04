@@ -302,4 +302,7 @@ Build Churn Prediction Dashboard :
 
 Shows visualizations from Churn Prediction :
 
+![Churn_Prediction_IMG](https://github.com/user-attachments/assets/6c957c4e-1a74-4aed-b27e-70105145db4c)
+
+
 
