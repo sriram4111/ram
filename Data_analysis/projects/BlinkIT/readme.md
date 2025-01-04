@@ -52,6 +52,12 @@ Strategic Recommendations
 
 **fact_orders**: Contains data related to order ID, customer ID, order date, delivery time, and order value, serving as a primary source for evaluating sales performance and customer behavior.
 
+#  Build Dashboard Or a Report:
+
+Shows visualizations from Blinkit insights :
+
+
+
 Data Source:
 
 The dataset used for this analysis includes sales records from various outlets, detailing product characteristics and sales performance.
