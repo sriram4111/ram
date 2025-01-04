@@ -1,5 +1,4 @@
-#  Predict Customer Churn <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...>
-
+#  Predict Customer Churn 
 For predicting customer churn, we will be using a widely used Machine Learning algorithm called RANDOM FOREST.
 
 What is Random Forest?A random forest is a machine learning algorithm that consists of multiple decision trees. Each decision tree is trained on a random subset of the data and features. The final prediction is made by averaging the predictions (in regression tasks) or taking the majority vote (in classification tasks) from all the trees in the forest. This ensemble approach improves the accuracy and robustness of the model by reducing the risk of overfitting compared to using a single decision tree.
