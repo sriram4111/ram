@@ -1,5 +1,7 @@
+[![MasterHead](https://i.pinimg.com/originals/9e/0a/c8/9e0ac82bc17ff00708da6bd09593177e.gif)]
 <h1 align="center">Hi 👋, I'm Sai Sri Ram Cherukuri</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 - 🔭 I’m currently working on **Churn Analysis**
 
