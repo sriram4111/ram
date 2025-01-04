@@ -340,3 +340,9 @@ Churn Reason Page (Tooltip)
 1.  Churn Reason – Total Churn.
 
 
+#  Build Dashboard Or a Report:
+
+   Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop:
+
+   Shows visualizations from Churn Analysis :
+
