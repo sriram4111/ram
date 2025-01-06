@@ -1,5 +1,5 @@
 [![MasterHead](https://i.pinimg.com/originals/9e/0a/c8/9e0ac82bc17ff00708da6bd09593177e.gif)]
-<h1 align="center">Hi 👋 I'm Sai Sri Ram Cherukuri</h1>
+<h1 align="center">Hi 👋, I'm Sai Sri Ram Cherukuri 🤖</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU5NzYzOTQsIm5iZiI6MTczNTk3NjA5NCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTA0VDA3MzQ1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJhM2ZkZWEzZDU0MjRjNDY3YzVhNTg4ZmQ1MmRkYzgxOTVjN2FlMzU2ODM0NGU1OWY5NTU3NTIyZjUxZGNmMDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gh-Rw0H90p_XVsFEvX1vap6t2OUFoWF45Mzbsq3PUhA">
 
