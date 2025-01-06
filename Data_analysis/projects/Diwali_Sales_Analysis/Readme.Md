@@ -1,4 +1,4 @@
-# Diwali Sales Analysis - DashBoard
+# Diwali Sales Analysis - DashBoard 📊
 
 ## Overview
 This analysis provides an in-depth summary of sales performance during the Diwali season. It highlights key metrics, customer demographics, and regional trends, helping stakeholders make informed decisions and identify growth opportunities. The dashboard visualizes data through various charts and statistics.
