@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact **Anything is Possible!**
 
+[![MasterHead](https://media0.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.webp?cid=790b76118fbtz70kg4m7xjn13ontyt7bzr7ph3agxvchzufy&ep=v1_gifs_search&rid=giphy.webp&ct=g)]
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/saisriramcherukuri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saisriramcherukuri/" height="30" width="40" /></a>
