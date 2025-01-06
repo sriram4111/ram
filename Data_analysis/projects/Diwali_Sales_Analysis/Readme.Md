@@ -51,13 +51,9 @@ The analysis reveals that:
 This data can be leveraged to target high-performing regions and demographics more effectively during future campaigns.
 
 ## How to Use This Repository
-- **Data Sources:** The dataset used for this analysis represents Diwali sales transactions.
-- **Tools Used:** The dashboard was created using Python, Seaborn, and Matplotlib for visualizations.
+- **Data Sources:** The dataset used for this analysis represents Diwali sales.
+- **Tools Used:** The dashboard was created using Python, Seaborn, and Matplotlib and PowerBi for visualizations.
 - **Code & Visuals:** Check the repository for code snippets and detailed dashboards.
 
-## Future Scope
-- Deeper analysis into product-level trends.
-- Explore seasonal patterns and repeat customer behavior.
-- Regional segmentation for personalized marketing strategies.
 
 
