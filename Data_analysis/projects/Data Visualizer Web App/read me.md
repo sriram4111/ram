@@ -3,7 +3,7 @@
 Welcome to the **Data Visualizer Web App**, a user-friendly and interactive tool for exploring and visualizing CSV data files. This application, built using **Streamlit**, allows you to quickly generate insightful visualizations without needing extensive coding knowledge.
 This Streamlit web app allows users to visualize data from CSV files. Users can select a CSV file, choose the columns for the x and y axes, and select a plot type. The app will then generate the selected plot and display it on the screen.
 
----
+
 
 ## Features
 
@@ -15,9 +15,11 @@ This Streamlit web app allows users to visualize data from CSV files. Users can 
   - Scatter Plot
   - Distribution Plot
   - Count Plot
+  - 
 - **Interactive Options:**
   - Select X-axis and Y-axis columns for your visualization.
   - Adjust plot parameters dynamically.
+    
 - **Seamless Visualization:** Generate and view high-quality plots instantly within the app.
   
 - ## Prerequisites
@@ -38,6 +40,8 @@ Activate the virtual environment.
 
 ## Install the required libraries:
 pip install pandas matplotlib seaborn streamlit
+
+---
 
 ## Usage
 
