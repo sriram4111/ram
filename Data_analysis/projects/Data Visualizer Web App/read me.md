@@ -15,7 +15,7 @@ This Streamlit web app allows users to visualize data from CSV files. Users can 
   - Scatter Plot
   - Distribution Plot
   - Count Plot
-  - 
+    
 - **Interactive Options:**
   - Select X-axis and Y-axis columns for your visualization.
   - Adjust plot parameters dynamically.
