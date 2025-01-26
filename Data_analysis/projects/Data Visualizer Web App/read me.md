@@ -55,6 +55,9 @@ pip install pandas matplotlib seaborn streamlit
 
 ![Image](https://github.com/user-attachments/assets/4fc0c9c2-e0a0-4af5-9efc-874cfbfe3b1c)
 
+![Image](https://github.com/user-attachments/assets/d2b8f264-d9cf-4bbd-867d-c7e154ab0ce3)
+
+
 ---
 
 ## Additional Notes
