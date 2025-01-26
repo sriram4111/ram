@@ -48,46 +48,20 @@ pip install pandas matplotlib seaborn streamlit
 5.Click the "Generate Plot" button.
 
 **Access the App:**
-   Open your browser and navigate to the URL provided (usually `http://192.168.31.210:8501`).
-
-   
-
-
-
+   Open your browser and navigate to the URL provided (usually `http://192.168.31.210:8501`)
 
 
 ## Example Screenshot
 
-
-
----
-
-## Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a feature branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add your message here"
-   ```
-4. Push to your branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Submit a pull request.
+![Image](https://github.com/user-attachments/assets/4fc0c9c2-e0a0-4af5-9efc-874cfbfe3b1c)
 
 ---
 
-## License
+## Additional Notes
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
+This is a basic example, and the app can be extended to support more features, such as saving plots as images.
+For more information on Streamlit, please refer to the official documentation: https://docs.streamlit.io
+I hope this is helpful!
 
 ## Acknowledgments
 
