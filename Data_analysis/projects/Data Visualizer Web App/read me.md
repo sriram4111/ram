@@ -38,10 +38,13 @@ streamlit
 ## Installation
 
 Clone this repository.
+
 Create a virtual environment (recommended).
+
 Activate the virtual environment.
 
 ## Install the required libraries:
+
 pip install pandas matplotlib seaborn streamlit
 
 ---
@@ -49,12 +52,17 @@ pip install pandas matplotlib seaborn streamlit
 ## Usage
 
 1.Run the app using the following command: streamlit run ram.py
+
 2.Select a CSV file from the dropdown menu.
+
 3.Select the columns for the x and y axes from the dropdown menus.
+
 4.Select a plot type from the dropdown menu.
+
 5.Click the "Generate Plot" button.
 
 **Access the App:**
+
    Open your browser and navigate to the URL provided (usually `http://192.168.31.210:8501`)
 
 
