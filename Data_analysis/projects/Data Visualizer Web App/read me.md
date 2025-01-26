@@ -63,12 +63,15 @@ pip install pandas matplotlib seaborn streamlit
 ## Additional Notes
 
 This is a basic example, and the app can be extended to support more features, such as saving plots as images.
+
 For more information on Streamlit, please refer to the official documentation: https://docs.streamlit.io
+
 I hope this is helpful!
 
 ## Acknowledgments
 
 - Inspired by the power of Python for data visualization.
+- 
 - Built with the simplicity and interactivity of Streamlit.
 
 ---
