@@ -25,9 +25,13 @@ This Streamlit web app allows users to visualize data from CSV files. Users can 
 - ## Prerequisites
 
 Python 3.6 or later
+
 pandas
+
 matplotlib
+
 seaborn
+
 streamlit
 
 
