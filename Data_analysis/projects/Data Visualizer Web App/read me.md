@@ -1,7 +1,14 @@
 # Data Visualizer Web App 📊
 
-Welcome to the **Data Visualizer Web App**, a user-friendly and interactive tool for exploring and visualizing CSV data files. This application, built using **Streamlit**, allows you to quickly generate insightful visualizations without needing extensive coding knowledge.
-This Streamlit web app allows users to visualize data from CSV files. Users can select a CSV file, choose the columns for the x and y axes, and select a plot type. The app will then generate the selected plot and display it on the screen.
+Welcome to the **Data Visualizer Web App**, a user-friendly and interactive tool for exploring and visualizing CSV data files.
+
+This application, built using **Streamlit**, allows you to quickly generate insightful visualizations without needing extensive coding knowledge.
+
+This Streamlit web app allows users to visualize data from CSV files. Users can select a CSV file, Choose the columns for the x and y axis, 
+
+and select a plot type. 
+
+The app will then generate the selected plot and display it on the screen.
 
 
 
