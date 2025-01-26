@@ -30,7 +30,6 @@ matplotlib
 seaborn
 streamlit
 
----
 
 ## Installation
 
